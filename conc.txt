@@ -1,0 +1,81 @@
+c == bajo nivel, capacidad de abstraccion
+c == todo android
+
+python == emplea c. xd
+windows == tambien emplea c
+copiladores == emplean c
+
+-----------------------------------------
+SENTENCIAS
+
+cada linea de un algorimo se domina SENTENCIA
+c == ; para fin de SENTENCIA
+
+---------------------------------------------
+FUNCION MAIN
+
+Obligatorio definir al funcion main y retorne siempre un numero. ej 0
+
+--------------------------------------------
+INTERPRETE == lee y ejecuta linea por linea
+
+PROCESO DE COMPILACION == todo archivo lo lee
+
+COPILADOR ES GCC 
+--------------------------------------------
+
+MACRO == importar. C no tiene funciones integrdas
+PREPROCESADOR C == elimina el macro (comentarios)
+COPILADOR == MENSAJE ASEMBLER => ¿QUE TIPO DE PC ES TU PC?    
+ENSAMBLADOR == Codigo 0 y 1
+BIBLIOTECAS
+ENLAZADOR
+EJECUTABLE   ==  es el que se ejecuta
+                 (la flag en terminal es -)                     
+--------------------------------------------
+VERTORES DE CARACTERES  (NO STRING)
+TIPADO ESTATICO
+TIPADO DINAMICO
+
+--------------------------------------------
+ TODA CADENA SE DDEFINE POR COMILLAS ""
+ TODO CARACTER SE DEFINE POR SIMPLE COMILLA ''
+
+---------------------------------------------
+CONSTANTES EXISTEN EN c
+
+--------------------------------------------
+ESTRUCUTRAS CONDICIONALES
+
+IDENTAR EN C no es Obligatorio
+
+----------------------------------------------
+ESTRUCTURA ITERATIVAS DO-WHILE
+
+------------------------------------------------
+funciones
+
+-----------------------------------------------
+EL SISTEMA OPERATIVO LE DA CONTROL A MI PROGRAMA??'
+
+------------------------------------------------
+PASAJE POR VALOR == lo que recibe es una copia por parametro
+-------------------------------------------------
+VS PASAJE POR REFERENCIA == lo que recibe es una referenia de la variable original
+PUNTERO * Y AMPERSON &
+--------------------------------------------------
+ PUNTERO == DIRECCION DE MEMORIA == OPERADOR DE RE REFERENCIA == BUSCA CONTENIDO POR LA DIRRECCION
+ AMPERSON == OPERADOR DE REFERENCIA  == DA LA DIRECCION
+---------------------------------------------------
+CADENAS
+MAXIMO LOGICO VS MAXIMO FISICO
+MAXIMO FISICO == total tamaño predefido para alojar en MEMORIA
+MAXIMO LOGICO == total tamaño de vector esta empleando en MEMORIA
+
+
+
+
+
+
+
+DO - WHILE (<==> VALIDACION)
